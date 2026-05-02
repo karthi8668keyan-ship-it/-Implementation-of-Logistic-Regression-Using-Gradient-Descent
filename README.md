@@ -90,6 +90,7 @@ plt.show()
 ```
 ## Output:
 <img width="1174" height="597" alt="image" src="https://github.com/user-attachments/assets/856fcaaf-0351-4e5b-b560-ee32af8a2201" />
+
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
